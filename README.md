@@ -1,6 +1,4 @@
-# adbc-motherduck
-
-**Connecting to MotherDuck with ADBC: Examples and Benchmarks**
+# Connecting to MotherDuck with ADBC: Examples and Benchmarks
 
 For examples in other languages and with other databases/engines/warehouses, see the [ADBC Quickstarts](https://github.com/columnar-tech/adbc-quickstarts). The DuckDB quickstart examples can all be adapted to work with MotherDuck with these steps:
 1. Change `games.duckdb` to `md:my_db`.
